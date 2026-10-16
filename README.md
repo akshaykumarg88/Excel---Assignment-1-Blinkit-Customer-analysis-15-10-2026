@@ -25,5 +25,7 @@ excel | power BI |Python
 
 **Dr.AAKSHAYKUMAR.G**
 Healthcare data analyst
+akshaykumarg88@gmail.com
+Linkedin profile
     
 
